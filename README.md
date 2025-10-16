@@ -2,8 +2,6 @@
 
 I will get back to this, but in the meantime... find a new song to listen to on [campmiles.com](https://campmiles.com).
 
-Also, I think I will make a great developer advocate. Are you one? Do you know one? Lets drink some coffee and share your experience with me!
-
 <!--
 **macamp0328/macamp0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
